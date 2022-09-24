@@ -1,0 +1,15 @@
+[submodule "mono"]
+	path = mono
+	url = git@github.com:cyko-hub/fonts-mono.git
+[submodule "sans"]
+	path = sans
+	url = git@github.com:cyko-hub/fonts-sans.git
+[submodule "serif"]
+	path = serif
+	url = git@github.com:cyko-hub/fonts-serif.git
+[submodule "emoji"]
+	path = emoji
+	url = git@github.com:cyko-hub/fonts-emoji.git
+[submodule "misc"]
+	path = misc
+	url = git@github.com:cyko-hub/fonts-misc.git
