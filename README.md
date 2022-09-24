@@ -13,6 +13,8 @@ Some open-source, some not.
 
 Split into these parts:
 
+> Implemented as separate repos, included as submodules.
+
 - mono *(main focus)*
 - sans
 - serif
