@@ -11,14 +11,20 @@ Some open-source, some not.
 > None of the fonts are created in-house (unless expicitly marked as such).\
 > Check out the creator of the fonts you use!
 
-Split into three parts:
+Split into these parts:
 
 - mono *(main focus)*
 - sans
-- sans serif
+- serif
+- emoji
+- misc
 
-## MONO
+## [MONO](https://github.com/cyko-hub/fonts-mono)
 
-## SANS
+## [SANS](https://github.com/cyko-hub/fonts-sans)
 
-## SANS SERIF
+## [SERIF](https://github.com/cyko-hub/fonts-serif)
+
+## [EMOJI](https://github.com/cyko-hub/fonts-emoji)
+
+## [MISC](https://github.com/cyko-hub/fonts-misc)
