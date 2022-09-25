@@ -41,6 +41,7 @@ https://code.google.com/archive/p/anka-coder-fonts/
 https://learn.microsoft.com/en-us/typography/font-list/segoe-ui (code)  
 https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts (droid)  
 https://github.com/nerdypepper/scientifica  
+https://github.com/bluescan/proggyfonts/tree/master/Contributed
 
 https://fonts.google.com/?category=Monospace&sort=popularity  
 
