@@ -1,23 +1,24 @@
 # [CYKOMANIACS](https://github.com/cykomaniacs) FONTS
 
-> THE **CYKO**LOGICAL FONT SELECTION\
+> THE **CYKO**LOGICAL FONT HUB\
 > <sub>A free and open project, distributed under the terms of the [MIT License](LICENSE).</sub>
 
-## DESCRIPTION
+### INTRODUCTION
 
 The purpose of this repo is to provide a syncable bundle of fonts.\
-The fonts are split into the following categories:
+The fonts are categorized by type:
 
-> Implemented as separate git-repos (included as submodules).
+> Implemented as separate repos (included as submodules).
 
-- [mono](#mono)
-- [sans](#sans)
-- [serif](#serif)
-- [emoji](#emoji)
-- [misc](#misc)
+- [mono](#type-mono)
+- [sans](#type-sans)
+- [serif](#type-serif)
+- [emoji](#type-emoji)
+- [misc](#type-misc)
 
+---
 
-### [MONO](https://github.com/cyko-hub/fonts-mono)
+### TYPE: [MONO](https://github.com/cyko-hub/fonts-mono)
 
 links to fonts (todo list...)
 
@@ -46,15 +47,19 @@ https://github.com/romeovs/creep
 
 https://fonts.google.com/?category=Monospace&sort=popularity  
 
-### [SANS](https://github.com/cyko-hub/fonts-sans)
+### TYPE: [SANS](https://github.com/cyko-hub/fonts-sans)
 
-### [SERIF](https://github.com/cyko-hub/fonts-serif)
+### TYPE: [SERIF](https://github.com/cyko-hub/fonts-serif)
 
-### [EMOJI](https://github.com/cyko-hub/fonts-emoji)
+### TYPE: [EMOJI](https://github.com/cyko-hub/fonts-emoji)
 
-### [MISC](https://github.com/cyko-hub/fonts-misc)
+### TYPE: [MISC](https://github.com/cyko-hub/fonts-misc)
 
-## NOTES
+---
+
+## FOOT-NOTES
 
 *<sub>None of the fonts are created in-house (unless expicitly marked as such).</sub>*\
 *<sub>Check out the creator of the fonts you use!</sub>*
+
+<sub>Updated: <kbd>2022</kbd> <kbd>09</kbd> <kbd>26</kbd> by [eggheadedmonkey](https://github.com/eggheadedmonkey)</sub>
