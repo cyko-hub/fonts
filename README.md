@@ -1,7 +1,7 @@
 # [CYKOMANIACS](https://github.com/cykomaniacs) FONTS
 
 > THE **CYKO**LOGICAL FONT HUB\
-> <sub>A free and open project, distributed under the terms of the [MIT License](LICENSE).</sub>
+> <sup>A free and open project, distributed under the terms of the [MIT License](LICENSE).</sup>
 
 ### INTRODUCTION
 
@@ -60,6 +60,5 @@ https://fonts.google.com/?category=Monospace&sort=popularity
 ## FOOT-NOTES
 
 *<sub>None of the fonts are created in-house (unless expicitly marked as such).</sub>*\
-*<sub>Check out the creator of the fonts you use!</sub>*
-
+*<sup>Check out the creator of the fonts you use!</sup>*\
 <sub>Updated: <kbd>2022</kbd> <kbd>09</kbd> <kbd>26</kbd> by [eggheadedmonkey](https://github.com/eggheadedmonkey)</sub>
