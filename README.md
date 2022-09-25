@@ -1,29 +1,25 @@
 # [CYKOMANIACS](https://github.com/cykomaniacs) FONTS
 
-> The *cykological* font selection (common base).\
-> For public use aswell (see the [LICENSE](LICENSE)).
+> THE **CYKO**LOGICAL FONT SELECTION\
+> <sub>A free and open project, distributed under the terms of the [MIT License](LICENSE).</sub>
 
-# INTRODUCTION
+## DESCRIPTION
 
-Repo of **free** fonts based purly on cykomaniacs taste.\
-Some open-source, some not.
+The purpose of this repo is to provide a syncable bundle of fonts.\
+The fonts are split into the following categories:
 
-> None of the fonts are created in-house (unless expicitly marked as such).\
-> Check out the creator of the fonts you use!
+> Implemented as separate git-repos (included as submodules).
 
-Split into these parts:
+- [mono](#mono)
+- [sans](#sans)
+- [serif](#serif)
+- [emoji](#emoji)
+- [misc](#misc)
 
-> Implemented as separate repos, included as submodules.
 
-- mono *(main focus)*
-- sans
-- serif
-- emoji
-- misc
+### [MONO](https://github.com/cyko-hub/fonts-mono)
 
-## [MONO](https://github.com/cyko-hub/fonts-mono)
-
-### links
+links to fonts (todo list...)
 
 https://github.com/tonsky/FiraCode  
 https://github.com/adobe-fonts/source-code-pro  
@@ -48,10 +44,15 @@ https://github.com/nerdypepper/scientifica
 
 https://fonts.google.com/?category=Monospace&sort=popularity  
 
-## [SANS](https://github.com/cyko-hub/fonts-sans)
+### [SANS](https://github.com/cyko-hub/fonts-sans)
 
-## [SERIF](https://github.com/cyko-hub/fonts-serif)
+### [SERIF](https://github.com/cyko-hub/fonts-serif)
 
-## [EMOJI](https://github.com/cyko-hub/fonts-emoji)
+### [EMOJI](https://github.com/cyko-hub/fonts-emoji)
 
-## [MISC](https://github.com/cyko-hub/fonts-misc)
+### [MISC](https://github.com/cyko-hub/fonts-misc)
+
+## NOTES
+
+*<sub>None of the fonts are created in-house (unless expicitly marked as such).</sub>*\
+*<sub>Check out the creator of the fonts you use!</sub>*
