@@ -1,7 +1,7 @@
 # [CYKOMANIACS](https://github.com/cykomaniacs) FONTS
 
 > THE **CYKO**LOGICAL FONT HUB\
-> <sup>A free and open project, distributed under the terms of the [MIT License](LICENSE).</sup>
+> <sup>A free project, distributed under the terms of the [**MIT** License](LICENSE).</sup>
 
 ### INTRODUCTION
 
@@ -20,8 +20,9 @@ The fonts are categorized by type:
 
 ### TYPE: [MONO](https://github.com/cyko-hub/fonts-mono)
 
-links to fonts (todo list...)
+> Font links (TODOS)
 
+https://github.com/pcaro90/hermit
 https://github.com/tonsky/FiraCode  
 https://github.com/adobe-fonts/source-code-pro  
 https://leonardo-m.livejournal.com/77079.html (inconsolata-g)  
@@ -57,8 +58,6 @@ https://fonts.google.com/?category=Monospace&sort=popularity
 
 ---
 
-## FOOT-NOTES
-
 *<sub>None of the fonts are created in-house (unless expicitly marked as such).</sub>*\
 *<sup>Check out the creator of the fonts you use!</sup>*\
-<sub>Updated: <kbd>2022</kbd> <kbd>09</kbd> <kbd>26</kbd> by [eggheadedmonkey](https://github.com/eggheadedmonkey)</sub>
+*<sub>Updated: <kbd>2022</kbd> <kbd>09</kbd> <kbd>26</kbd> by [eggheadedmonkey](https://github.com/eggheadedmonkey)</sub>*
