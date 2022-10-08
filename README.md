@@ -23,8 +23,8 @@ The fonts are categorized by type:
 > Font links (TODOS)
 
 https://github.com/andreberg/Meslo-Font  
-https://github.com/be5invis/Iosevka
-https://github.com/pcaro90/hermit
+https://github.com/be5invis/Iosevka  
+https://github.com/pcaro90/hermit  
 https://github.com/adobe-fonts/source-code-pro  
 https://leonardo-m.livejournal.com/77079.html (inconsolata-g)  
 https://sourcefoundry.org/hack/  
