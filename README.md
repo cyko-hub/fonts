@@ -22,11 +22,11 @@ The fonts are categorized by type:
 
 > Font links (TODOS)
 
+https://github.com/andreberg/Meslo-Font  
+https://github.com/be5invis/Iosevka
 https://github.com/pcaro90/hermit
-https://github.com/tonsky/FiraCode  
 https://github.com/adobe-fonts/source-code-pro  
 https://leonardo-m.livejournal.com/77079.html (inconsolata-g)  
-https://github.com/hbin/top-programming-fonts/blob/master/Menlo-Regular.ttf  
 https://sourcefoundry.org/hack/  
 https://github.com/coz-m/MPLUS_FONTS  
 https://github.com/JetBrains/JetBrainsMono  
@@ -35,7 +35,6 @@ https://github.com/hbin/top-programming-fonts/blob/master/Monaco-Linux.ttf
 https://www.dcmembers.com/jibsen/download/61/ (dina)  
 https://github.com/zshoals/Dina-Font-TTF-Remastered  
 https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released/  
-https://github.com/andreberg/Meslo-Font  
 https://font.gohu.org/  
 https://terminus-font.sourceforge.net/  
 https://github.com/madmalik/mononoki  
