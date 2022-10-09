@@ -8,7 +8,7 @@
 The purpose of this repo is to provide a syncable bundle of fonts.\
 The fonts are catalogued by type (as follows):
 
-> Implemented as independent Git repositories.\
+> Implemented as independent Git repositories (submodules).\
 > <sup>Simply clone the type you want, instead of everything.</sup>
 
 - [mono](#type-mono)
